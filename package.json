@@ -21,6 +21,12 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.116.0",
+    "@aws-cdk/aws-certificatemanager": "^1.116.0",
+    "@aws-cdk/aws-ecs": "^1.116.0",
+    "@aws-cdk/aws-ecs-patterns": "^1.116.0",
+    "@aws-cdk/aws-iam": "^1.116.0",
+    "@aws-cdk/aws-lambda": "^1.116.0",
     "@aws-cdk/core": "1.115.0",
     "source-map-support": "^0.5.16"
   }
